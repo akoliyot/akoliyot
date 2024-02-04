@@ -5,7 +5,7 @@ I'm Aswin, and I like learning and building stuff.
 I'm currently:
 
 - 📚 learning iOS development.
-- 🔭 working on a meditation timer for iOS and watchOS.
+- 🔭 working on a momentum based habit tracker for iOS and Apple Watch
 
 Some of the stuff I've created:
 
